@@ -108,9 +108,3 @@ marp: true
     - Message contains an invite link to our built server
     - This is a user-approved migration
 ---
-## Demo
-*insert demo link here*
-
----
-## References
-*insert references here*
