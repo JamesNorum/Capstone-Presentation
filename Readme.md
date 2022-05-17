@@ -1,9 +1,6 @@
-Be sure to get the MARP for VSCode extension
-
-Write in Markdown format
-
-use --- to end the slide and start a new one
+Presentation Servers:
+index.html: 35.226.228.107
+tech.html: 35.226.228.107/tech.html
 
 Resources:
-
 https://marinegeo.github.io/2018-08-10-adding-images-markdown/
